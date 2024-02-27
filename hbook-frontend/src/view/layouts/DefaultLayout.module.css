@@ -1,0 +1,17 @@
+.nav {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerNav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #1b02a8;
+}
